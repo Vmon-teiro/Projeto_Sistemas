@@ -98,23 +98,23 @@ A proposta visa centralizar as informações acadêmicas em uma estrutura integr
 
 ### Diagrama de Navegação
 Representa o fluxo de acesso às funcionalidades do sistema de acordo com cada perfil de usuário.
-![Diagrama de Navegação](docs/diagrama-navegacao.png)
+![Diagrama de Navegação](Sistema-Gestao-Academica/imagens/diagrama-de-navegacao.png)
 
 ### Diagrama de Casos de Uso
 Apresenta as interações entre os atores e os serviços disponibilizados pelo sistema.
-![Diagrama de Caso de Uso](docs/diagrama-caso-uso.png)
+![Diagrama de Caso de Uso](Sistema-Gestao-Academica/imagens/diagrama-de-caso-de-uso.jpg)
 
 ### Diagrama de Atividades
 Descreve o fluxo operacional desde a matrícula do aluno até o encerramento do semestre letivo.
-![Diagrama de Atividade](docs/diagrama-atividade.png)
+![Diagrama de Atividade](Sistema-Gestao-Academica/imagens/diagrama-de-atividade.jpg)
 
 ### Diagrama de Classes
 Modelagem estrutural das entidades do sistema e seus relacionamentos.
-![Diagrama de Classes](docs/diagrama-classes.png)
+![Diagrama de Classes](Sistema-Gestao-Academica/imagens/diagrama-de-classe.png)
 
 ### Diagrama de Sequência
 Representa a troca de mensagens entre os componentes do sistema durante os processos acadêmicos.
-![Diagrama de Sequência](docs/diagrama-sequencia.png)
+![Diagrama de Sequência](Sistema-Gestao-Academica/imagens/diagrama-de-sequencia.png)
 
 ---
 
@@ -123,13 +123,13 @@ Representa a troca de mensagens entre os componentes do sistema durante os proce
 O gerenciamento das atividades foi realizado utilizando a metodologia ágil **Kanban** por meio da plataforma **Trello**, permitindo o acompanhamento das tarefas, métricas de progresso e cronograma das entregas.
 
 ### Calendário de Execução
-![Calendário](docs/calendario.png)
+![Calendário](Sistema-Gestao-Academica/imagens/Trello-calendario.png.jpg)
 
 ### Quadro Kanban
-![Kanban](docs/kanban-board.png)
+![Kanban](Sistema-Gestao-Academica/imagens/Trello-quadro.png.jpg)
 
 ### Métricas do Projeto
-![Métricas](docs/metricas-kanban.png)
+![Métricas](Sistema-Gestao-Academica/imagens/Trello-painel.png.jpg)
 
 ---
 
@@ -163,8 +163,8 @@ Principais artefatos produzidos:
 Projeto_Sistemas
 ├── Sistema-Gestao-Academica/
 │   ├──database/
-│   ├──docs
-│   ├──imagens
+│   ├──docs/
+│   ├──imagens/
 |
 ├── LICENÇA
 └── README.md
