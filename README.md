@@ -151,8 +151,8 @@ O gerenciamento das atividades foi realizado utilizando a metodologia ágil **Ka
 ## 📖 Documentação
 
 A documentação completa do projeto encontra-se disponível na pasta [docs](Sistema-Gestao-Academica/docs), incluindo requisitos, diagramas UML, regras de negócio, métricas do projeto e modelagem do banco de dados.
-Principais artefatos produzidos:
 
+Principais artefatos produzidos:
 * Levantamento de Requisitos
 * Casos de Uso
 * Diagramas UML
