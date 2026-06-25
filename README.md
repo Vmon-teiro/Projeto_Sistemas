@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Concl%C3%ADdo-success" alt="Status">
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Curso-T%C3%A9cnico_em_Desenvolvimento_de_Sistemas-blue" alt="Curso">
   <img src="https://img.shields.io/badge/Modelagem-UML-orange" alt="Modelagem">
   <img src="https://img.shields.io/badge/Ferramenta-Astah-red" alt="Ferramenta">
@@ -98,7 +98,9 @@ A proposta visa centralizar as informações acadêmicas em uma estrutura integr
 
 ### Diagrama de Navegação
 Representa o fluxo de acesso às funcionalidades do sistema de acordo com cada perfil de usuário.
-![Diagrama de Navegação](Sistema-Gestao-Academica/imagens/diagrama-de-navegacao.png)
+<div align="center">
+  <img src="Sistema-Gestao-Academica/imagens/diagrama-de-navegacao.png" alt="Diagrama de Navegação" width="70%">
+</div>
 
 ### Diagrama de Casos de Uso
 Apresenta as interações entre os atores e os serviços disponibilizados pelo sistema.
