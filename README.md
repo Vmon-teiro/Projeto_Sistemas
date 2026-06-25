@@ -108,7 +108,9 @@ Apresenta as interações entre os atores e os serviços disponibilizados pelo s
 
 ### Diagrama de Atividades
 Descreve o fluxo operacional desde a matrícula do aluno até o encerramento do semestre letivo.
-![Diagrama de Atividade](Sistema-Gestao-Academica/imagens/diagrama-de-atividade.jpg)
+<div align="center">
+<img src="Sistema-Gestao-Academica/imagens/diagrama-de-atividade.jpg" alt="Diagrama de Navegação" width="47%">
+</div>
 
 ### Diagrama de Classes
 Modelagem estrutural das entidades do sistema e seus relacionamentos.
@@ -146,8 +148,7 @@ O gerenciamento das atividades foi realizado utilizando a metodologia ágil **Ka
 
 ## 📖 Documentação
 
-A documentação completa do projeto encontra-se disponível na pasta `docs`, incluindo requisitos, diagramas UML, regras de negócio, métricas do projeto e modelagem do banco de dados.
-
+A documentação completa do projeto encontra-se disponível na pasta [docs](Sistema-Gestao-Academica/docs/Diagramas_Requisitos.pdf), incluindo requisitos, diagramas UML, regras de negócio, métricas do projeto e modelagem do banco de dados.
 Principais artefatos produzidos:
 
 * Levantamento de Requisitos
