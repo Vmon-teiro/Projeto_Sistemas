@@ -99,7 +99,7 @@ A proposta visa centralizar as informações acadêmicas em uma estrutura integr
 ### Diagrama de Navegação
 Representa o fluxo de acesso às funcionalidades do sistema de acordo com cada perfil de usuário.
 <div align="center">
-  <img src="Sistema-Gestao-Academica/imagens/diagrama-de-navegacao.png" alt="Diagrama de Navegação" width="70%">
+  <img src="Sistema-Gestao-Academica/imagens/diagrama-de-navegacao.png" alt="Diagrama de Navegação" width="38%">
 </div>
 
 ### Diagrama de Casos de Uso
@@ -200,7 +200,8 @@ O projeto permitiu aplicar conceitos de:
 * **Curso:** Técnico em Desenvolvimento de Sistemas
 * **Disciplina:** Gerência de Projetos
 * **Autora:** [Vmon-teiro](?)
-
+* **Membros:** Jernan, Angélica, Hysyse e Rosineia.
+  
 ---
 
 ## 📄 Licença
