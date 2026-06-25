@@ -125,7 +125,7 @@ Representa a troca de mensagens entre os componentes do sistema durante os proce
 ## 📅 Planejamento do Projeto
 
 O gerenciamento das atividades foi realizado utilizando a metodologia ágil **Kanban** por meio da plataforma **Trello**, permitindo o acompanhamento das tarefas, métricas de progresso e cronograma das entregas.
-
+Link:[https://trello.com/invite/b/6a329ecce0a26f57af102ad6/ATTI550a7e8b55edf306ce9dc18f9bf7a0b94A1C4480/projeto]
 ### Calendário de Execução
 ![Calendário](Sistema-Gestao-Academica/imagens/Trello-calendario.png.jpg)
 
