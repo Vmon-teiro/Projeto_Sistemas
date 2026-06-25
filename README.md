@@ -165,9 +165,9 @@ Principais artefatos produzidos:
 ```text
 Projeto_Sistemas
 ├── Sistema-Gestao-Academica/
-│   ├──database/
-│   ├──docs/
-│   ├──imagens/
+│    ├──database/
+│    ├──docs/
+│    ├──imagens/
 |
 ├── LICENÇA
 └── README.md
