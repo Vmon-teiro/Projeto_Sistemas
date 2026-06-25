@@ -1,4 +1,6 @@
+<h1 align="center">
 # Projeto Sistemas - Gestão Acadêmica
+</h1>
 
 <h1 align="center">
   Sistema de Gestão Acadêmica
@@ -28,8 +30,8 @@
 - [Diagramas e Modelagem](#-diagramas-e-modelagem)
 - [Planejamento do Projeto](#-planejamento-do-projeto)
 - [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
-- [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Documentação](#-documentação)
+- [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Resultados Obtidos](#-resultados-obtidos)
 - [Evoluções Futuras](#-evoluções-futuras)
 - [Equipe e Autoria](#-equipe-e-autoria)
@@ -140,11 +142,67 @@ O gerenciamento das atividades foi realizado utilizando a metodologia ágil **Ka
 
 ---
 
+## 📖 Documentação
+
+A documentação completa do projeto encontra-se disponível na pasta `docs`, incluindo requisitos, diagramas UML, regras de negócio, métricas do projeto e modelagem do banco de dados.
+
+Principais artefatos produzidos:
+
+* Levantamento de Requisitos
+* Casos de Uso
+* Diagramas UML
+* Regras de Negócio
+* Planejamento das Atividades
+* Métricas de Projeto
+
+---
+
 ## 📂 Estrutura do Repositório
 
 ```text
 Projeto_Sistemas
 ├── Sistema-Gestao-Academica/
-├── docs/
-├── imagens/
+│   ├──database/
+│   ├──docs
+│   ├──imagens
+|
+├── LICENÇA
 └── README.md
+```
+---
+
+## 🏆 Resultados Obtidos
+
+O projeto permitiu aplicar conceitos de:
+
+* Engenharia de Software
+* Modelagem UML
+* Análise de Requisitos
+* Gerenciamento Ágil com Kanban
+* Documentação Técnico
+
+---
+
+## 🔮 Evoluções Futuras
+
+* Implementação da aplicação Web;
+* Dashboard gerencial;
+* Exportação de relatórios em PDF;
+* Controle de autenticação e autorização;
+* Interface responsiva para dispositivos móveis.
+
+---
+
+## 👥 Equipe e Autoria
+
+* **Curso:** Técnico em Desenvolvimento de Sistemas
+* **Disciplina:** Gerência de Projetos
+* **Autora:** [Vmon-teiro](?)
+
+---
+
+## 📄 Licença
+
+Projeto desenvolvido exclusivamente para fins acadêmicos.
+
+Todos os direitos reservados aos respectivos autores.
