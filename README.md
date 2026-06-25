@@ -199,7 +199,7 @@ O projeto permitiu aplicar conceitos de:
 
 * **Curso:** Técnico em Desenvolvimento de Sistemas
 * **Disciplina:** Gerência de Projetos
-* **Autora:** [Vmon-teiro](?)
+* **Autora:** [Vmon-teiro](https://github.com/Vmon-teiro)
 * **Membros:** Jernan, Angélica, Hysyse e Rosineia.
   
 ---
