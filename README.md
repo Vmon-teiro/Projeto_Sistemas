@@ -207,5 +207,4 @@ O projeto permitiu aplicar conceitos de:
 ## 📄 Licença
 
 Projeto desenvolvido exclusivamente para fins acadêmicos.
-
 Todos os direitos reservados aos respectivos autores.
