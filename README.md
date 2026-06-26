@@ -1,10 +1,9 @@
-<h1 align="center">
-# Projeto Sistemas - Gestão Acadêmica
-</h1>
+<div align="center">
 
-<h1 align="center">
-  Sistema de Gestão Acadêmica
-</h1>
+# 🎓 Sistema de Gestão Acadêmica
+### *Projeto de Sistemas — Escola Técnica de Nível Médio*
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status">
@@ -15,9 +14,10 @@
   <img src="https://img.shields.io/github/last-commit/Vmon-teiro/Projeto_Sistemas" alt="GitHub last commit">
 </p>
 
-<p align="center">
-  Sistema de Gestão Acadêmica desenvolvido como projeto da disciplina de Gerência de Projetos, com o objetivo de especificar, modelar e documentar uma solução para gerenciamento de processos acadêmicos em uma Escola Técnica de Nível Médio.
-</p>
+---
+</div>
+
+> 🏫 **Sobre o projeto:** Solução desenvolvida para a disciplina de *Gerência de Projetos*. O objetivo principal é especificar, modelar e documentar todos os processos operacionais e acadêmicos de uma instituição de ensino técnica.
 
 ---
 
