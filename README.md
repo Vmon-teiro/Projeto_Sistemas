@@ -1,6 +1,6 @@
 <div align="center">
 
-# Projeto de Sistemas
+# #Projeto de Sistemas
 ### *Sistema de Gestão Acadêmica — Escola Técnica de Nível Médio*
 
 ---
