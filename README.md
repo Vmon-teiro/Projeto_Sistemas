@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🎓 Sistema de Gestão Acadêmica
-### *Projeto de Sistemas — Escola Técnica de Nível Médio*
+# Projeto de Sistemas
+### *Sistema de Gestão Acadêmica — Escola Técnica de Nível Médio*
 
 ---
 
@@ -17,8 +17,7 @@
 ---
 </div>
 
-> 🏫 **Sobre o projeto:** Solução desenvolvida para a disciplina de *Gerência de Projetos*. O objetivo principal é especificar, modelar e documentar todos os processos operacionais e acadêmicos de uma instituição de ensino técnica.
-
+> **Sobre o projeto:** Sistema de Gestão Acadêmica desenvolvido como projeto da disciplina de Gerência de Projetos, com o objetivo de especificar, modelar e documentar uma solução para gerenciamento de processos acadêmicos em uma Escola Técnica de Nível Médio.
 ---
 
 ## 📌 Sumário
