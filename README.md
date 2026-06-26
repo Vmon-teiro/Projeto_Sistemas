@@ -198,11 +198,11 @@ O projeto permitiu aplicar conceitos de:
 
 ## 🔮 Evoluções Futuras
 
-* Implementação da aplicação Web.
-* Dashboard gerencial.
-* Exportação de relatórios em PDF.
-* Controle de autenticação e autorização.
-* Interface responsiva para dispositivos móveis.
+* Implementação da aplicação Web
+* Dashboard gerencial
+* Exportação de relatórios em PDF
+* Controle de autenticação e autorização
+* Interface responsiva para dispositivos móveis
 
 ---
 
