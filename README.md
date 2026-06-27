@@ -208,12 +208,12 @@ O projeto permitiu aplicar conceitos de:
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
+     <td align="center" width="180" style="white-space: nowrap;">
       <a href="https://github.com/Vmon-teiro">
         <img src="https://github.com/Vmon-teiro.png" width="100px;" alt="Avatar Vmon-teiro" style="border-radius:50%;"/><br />
         <sub><b>Vmon-teiro</b></sub>
       </a><br />
-      👑 <i>Autora Principal</i>
+      👑 <i> Autora Principal </i>
     </td>
     <td>
       <ul>
