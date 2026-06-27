@@ -4,12 +4,14 @@
 ### Projeto de Sistemas – Escola Técnica de Nível Médio 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Curso-T%C3%A9cnico_em_Desenvolvimento_de_Sistemas-blue" alt="Curso">
-  <img src="https://img.shields.io/badge/Modelagem-UML-orange" alt="Modelagem">
-  <img src="https://img.shields.io/badge/Ferramenta-Astah-red" alt="Ferramenta">
-  <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-black" alt="GitHub">
-  <img src="https://img.shields.io/github/last-commit/Vmon-teiro/Projeto_Sistemas" alt="GitHub last commit">
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Curso-Técnico em Desenvolvimento de Sistemas-blue?style=for-the-badge" alt="Curso">
+  <img src="https://img.shields.io/badge/Modelagem-UML-orange?style=for-the-badge" alt="Modelagem">
+  <img src="https://img.shields.io/badge/Ferramenta-Astah-red?style=for-the-badge" alt="Ferramenta">
+  <img src="https://img.shields.io/badge/Trello-Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/github/last-commit/Vmon-teiro/Projeto_Sistemas?style=for-the-badge" alt="GitHub last commit">
 </p>
 
 </div>
@@ -204,14 +206,32 @@ O projeto permitiu aplicar conceitos de:
 
 ## 👥 Equipe e Autoria
 
-* **Curso:** Técnico em Desenvolvimento de Sistemas
-* **Disciplina:** Gerência de Projetos
-* **Autora:** [Vmon-teiro](https://github.com/Vmon-teiro)
-* **Membros:** Jernan, Angélica, Hydayse e Rosineia.
-  
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/Vmon-teiro">
+        <img src="https://github.com/Vmon-teiro.png" width="100px;" alt="Avatar Vmon-teiro" style="border-radius:50%;"/><br />
+        <sub><b>Vmon-teiro</b></sub>
+      </a><br />
+      👑 <i>Autora Principal</i>
+    </td>
+    <td>
+      <ul>
+        <li><b>Curso:</b> Técnico em Desenvolvimento de Sistemas</li>
+        <li><b>Disciplina:</b> Gerência de Projetos</li>
+        <li><b>Membros da Equipe:</b> Jernan, Angélica, Hydayse e Rosineia.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📄 Licença
 
-Projeto desenvolvido exclusivamente para fins acadêmicos.
-Todos os direitos reservados aos respectivos autores.
+> [!NOTE]
+> ### 📑 Termos de Uso Acadêmico
+> Este projeto foi desenvolvido **exclusivamente para fins acadêmicos e pedagógicos**. 
+> Todos os direitos intelectuais, de modelagem e documentação pertencem estritamente aos seus respectivos autores. 
+> 
+> *Fica proibida a reprodução comercial sem autorização prévia.*
