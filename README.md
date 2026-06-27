@@ -178,6 +178,8 @@ Principais artefatos produzidos:
  │   └── 📂 imagens           # Diagramas UML e capturas do Kanban
  ├── 📄 LICENÇA               # Termos de uso acadêmico
  └── 📄 README.md             # Visão geral do projeto
+```
+
 ---
 
 ## 🏆 Resultados Obtidos
