@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Curso-Técnico em Desenvolvimento de Sistemas-blue?style=for-the-badge" alt="Curso">
   <img src="https://img.shields.io/badge/Modelagem-UML-orange?style=for-the-badge" alt="Modelagem">
-  <img src="https://img.shields.io/badge/Ferramenta-Astah-red?style=for-the-badge" alt="Ferramenta">
+  <img src="https://img.shields.io/badge/Astah-Ferramenta-red?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Astah">
   <img src="https://img.shields.io/badge/Trello-Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-badge&logo=github" alt="GitHub">
