@@ -107,7 +107,7 @@ A proposta visa centralizar as informações acadêmicas em uma estrutura integr
 Representa o fluxo de acesso às funcionalidades do sistema de acordo com cada perfil de usuário.
 
 <details>
-<summary> <b><a style="color: #58a6ff; text-decoration: none;">Clique aqui para ver o Diagrama de Navegação</a></b></summary>
+<summary> <b><u>Clique aqui para ver o Diagrama de Navegação</u></b></summary>
 <br>
 <div align="center">
   <img src="Sistema-Gestao-Academica/imagens/diagrama-de-navegacao.png" alt="Diagrama de Navegação" width="38%">
@@ -118,7 +118,7 @@ Representa o fluxo de acesso às funcionalidades do sistema de acordo com cada p
 Apresenta as interações entre os atores e os serviços disponibilizados pelo sistema.
 
 <details>
-<summary> <b><a style="color: #58a6ff; text-decoration: none;">Clique aqui para ver o Diagrama de Casos de Uso</a></b></summary>
+<summary> <b><u>Clique aqui para ver o Diagrama de Casos de Uso</u></b></summary>
 <br>
 <div align="center">
   <img src="Sistema-Gestao-Academica/imagens/diagrama-de-caso-de-uso.jpg" alt="Diagrama de Caso de Uso" width="80%">
@@ -129,7 +129,7 @@ Apresenta as interações entre os atores e os serviços disponibilizados pelo s
 Descreve o fluxo operacional desde a matrícula do aluno até o encerramento do semestre letivo.
 
 <details>
-<summary> <b><a style="color: #58a6ff; text-decoration: none;">Clique aqui para ver o Diagrama de Atividades</a></b></summary>
+<summary> <b><u>Clique aqui para ver o Diagrama de Atividades</u></b></summary>
 <br>
 <div align="center">
   <img src="Sistema-Gestao-Academica/imagens/diagrama-de-atividade.jpg" alt="Diagrama de Atividade" width="47%">
@@ -140,7 +140,7 @@ Descreve o fluxo operacional desde a matrícula do aluno até o encerramento do 
 Modelagem estrutural das entidades do sistema e seus relacionamentos.
 
 <details>
-<summary> <b><a style="color: #58a6ff; text-decoration: none;">Clique aqui para ver o Diagrama de Classes</a></b></summary>
+<summary> <b><u>Clique aqui para ver o Diagrama de Classes</u></b></summary>
 <br>
 <div align="center">
   <img src="Sistema-Gestao-Academica/imagens/diagrama-de-classe.png" alt="Diagrama de Classes" width="80%">
@@ -151,7 +151,7 @@ Modelagem estrutural das entidades do sistema e seus relacionamentos.
 Representa a troca de mensagens entre os componentes do sistema durante os processos acadêmicos.
 
 <details>
-<summary> <b><a style="color: #58a6ff; text-decoration: none;">Clique aqui para ver o Diagrama de Sequência</a></b></summary>
+<summary> <b><u>Clique aqui para ver o Diagrama de Sequência</u></b></summary>
 <br>
 <div align="center">
   <img src="Sistema-Gestao-Academica/imagens/diagrama-de-sequencia.png" alt="Diagrama de Sequência" width="80%">
