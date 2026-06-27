@@ -104,27 +104,62 @@ A proposta visa centralizar as informações acadêmicas em uma estrutura integr
 
 ### Diagrama de Navegação
 Representa o fluxo de acesso às funcionalidades do sistema de acordo com cada perfil de usuário.
+
+<details>
+<summary> <b>Clique aqui para ver o Diagrama de Navegação</b></summary>
+<br>
 <div align="center">
   <img src="Sistema-Gestao-Academica/imagens/diagrama-de-navegacao.png" alt="Diagrama de Navegação" width="38%">
 </div>
+</details>
+
 
 ### Diagrama de Casos de Uso
 Apresenta as interações entre os atores e os serviços disponibilizados pelo sistema.
-![Diagrama de Caso de Uso](Sistema-Gestao-Academica/imagens/diagrama-de-caso-de-uso.jpg)
+
+<details>
+<summary> <b>Clique aqui para ver o Diagrama de Casos de Uso</b></summary>
+<br>
+<div align="center">
+  <img src="Sistema-Gestao-Academica/imagens/diagrama-de-caso-de-uso.jpg" alt="Diagrama de Caso de Uso" width="80%">
+</div>
+</details>
+
 
 ### Diagrama de Atividades
 Descreve o fluxo operacional desde a matrícula do aluno até o encerramento do semestre letivo.
+
+<details>
+<summary> <b>Clique aqui para ver o Diagrama de Atividades</b></summary>
+<br>
 <div align="center">
-<img src="Sistema-Gestao-Academica/imagens/diagrama-de-atividade.jpg" alt="Diagrama de Navegação" width="47%">
+  <img src="Sistema-Gestao-Academica/imagens/diagrama-de-atividade.jpg" alt="Diagrama de Atividade" width="47%">
 </div>
+</details>
+
 
 ### Diagrama de Classes
 Modelagem estrutural das entidades do sistema e seus relacionamentos.
-![Diagrama de Classes](Sistema-Gestao-Academica/imagens/diagrama-de-classe.png)
+
+<details>
+<summary> <b>Clique aqui para ver o Diagrama de Classes</b></summary>
+<br>
+<div align="center">
+  <img src="Sistema-Gestao-Academica/imagens/diagrama-de-classe.png" alt="Diagrama de Classes" width="80%">
+</div>
+</details>
+
 
 ### Diagrama de Sequência
 Representa a troca de mensagens entre os componentes do sistema durante os processos acadêmicos.
-![Diagrama de Sequência](Sistema-Gestao-Academica/imagens/diagrama-de-sequencia.png)
+
+<details>
+<summary> <b>Clique aqui para ver o Diagrama de Sequência</b></summary>
+<br>
+<div align="center">
+  <img src="Sistema-Gestao-Academica/imagens/diagrama-de-sequencia.png" alt="Diagrama de Sequência" width="80%">
+</div>
+</details>
 
 ---
 
