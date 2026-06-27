@@ -171,15 +171,13 @@ Principais artefatos produzidos:
 ## 📂 Estrutura do Repositório
 
 ```text
-Projeto_Sistemas
-├── Sistema-Gestao-Academica/
-│    ├──database/
-│    ├──docs/
-│    ├──imagens/
-|
-├── LICENÇA
-└── README.md
-```
+📦 Projeto_Sistemas
+ ├── 📂 Sistema-Gestao-Academica
+ │   ├── 📂 database          # Scripts SQL
+ │   ├── 📂 docs              # Documentação técnica e requisitos
+ │   └── 📂 imagens           # Diagramas UML e capturas do Kanban
+ ├── 📄 LICENÇA               # Termos de uso acadêmico
+ └── 📄 README.md             # Visão geral do projeto
 ---
 
 ## 🏆 Resultados Obtidos
