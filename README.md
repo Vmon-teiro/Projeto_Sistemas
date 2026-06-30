@@ -35,7 +35,7 @@
   - [Calendário de Execução](#calendário-de-execução)
   - [Quadro Kanban](#quadro-kanban)
   - [Métricas do Projeto](#métricas-do-projeto)
-- [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
+  [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
 - [Documentação](#-documentação)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Resultados Obtidos](#-resultados-obtidos)
